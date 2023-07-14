@@ -1,8 +1,6 @@
 ### Hi :D 👋
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MATIFIREofficiel&show_icons=true&theme=radical)](https://github.com/MATIFIREofficiel)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MATIFIREofficiel&layout=compact)](https://github.com/MATIFIREofficiel)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MATIFIREofficiel&theme=radical)](https://github.com/MATIFIREofficiel)
 
 ## Wakatime Stats since 1 APRIL 2023
