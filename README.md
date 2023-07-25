@@ -1,6 +1,6 @@
 ### Hi :D 👋
 
-## GitHub Stats
+## GitHub Stats since January 2023
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MATIFIREofficiel&theme=radical)](https://github.com/MATIFIREofficiel)
 
 ## Wakatime Stats since 1 APRIL 2023
