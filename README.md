@@ -12,7 +12,7 @@ I design, develop, and deploy **web & mobile applications**, always focused on u
 - 🌍 Based in **Lille, France** – open to opportunities in **full stack development, DevOps, or junior tech lead roles**
 - ⚡ Curious, adaptable, and quick to learn any new technology
 
-- ### **CTO & Co-founder – InZePocket**
+### **CTO & Co-founder – InZePocket**
 Led the technical vision and development of a mobile and web MVP for a startup incubated at EuraTechnologies.  
 Implemented best practices (CI/CD, versioning, monitoring), optimized performance, enhanced security, and planned for scalability.  
 Worked closely with the founder to align the product roadmap with business goals.
